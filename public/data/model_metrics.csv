@@ -1,0 +1,6 @@
+category,total_size_mb,minimum_required_mb,target_download_mb,is_minimum_100mb,jumlah_file,dataset_source,dataset_link,supporting_source,supporting_link,catatan,best_model,target,mae,mse,rmse,r2_score,accuracy,precision,recall,f1_score,model,n_clusters,silhouette_score
+dataset,130.73,100.0,130.0,True,84.0,Open-Meteo Historical Weather API,https://open-meteo.com/en/docs/historical-weather-api,BMKG Data Terbuka,https://data.bmkg.go.id/,Ukuran dihitung dari seluruh file dataset mentah di folder data_raw. Dataset harus minimal 100 MB sesuai ketentuan tugas besar.,,,,,,,,,,,,,
+regression,,,,,,,,,,,RandomForestRegressor,precipitation,0.2700842140634485,0.5793509291241747,0.7611510553918813,0.5257340189480311,,,,,,,
+classification,,,,,,,,,,,RandomForestClassifier,risk_category,,,,,0.94046,0.9312920615527047,0.94046,0.9295475863422875,,,
+clustering,,,,,,,,,,,,,,,,,,,,,KMeans,4.0,0.32606076768826836
+deep_learning,,,,,,,,,,,,,0.29830062865268986,0.6324957365792522,0.7952960056351673,0.4822288255005929,,,,,MLPRegressor,,

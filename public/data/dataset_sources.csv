@@ -1,0 +1,3 @@
+nama_dataset,sumber,link,jenis_data,status,lisensi,kegunaan
+Open-Meteo Historical Weather API,Open-Meteo,https://open-meteo.com/en/docs/historical-weather-api,Cuaca historis hourly berdasarkan koordinat lokasi,Open/Public,CC BY 4.0,"Dataset utama untuk EDA, clustering, regresi, klasifikasi, dan deep learning"
+BMKG Data Terbuka,BMKG,https://data.bmkg.go.id/,"Data terbuka cuaca, prakiraan, gempabumi, dan peringatan dini",Open/Public,Mengikuti ketentuan BMKG,Sumber pendukung konteks Indonesia dalam laporan

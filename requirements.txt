@@ -1,0 +1,6 @@
+fastapi==0.117.1
+numpy
+pandas
+scikit-learn==1.6.1
+joblib
+pydantic

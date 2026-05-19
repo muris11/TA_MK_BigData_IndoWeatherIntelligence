@@ -1,0 +1,14 @@
+{
+  "title": "Penerapan Big Data Analytics pada Data Cuaca Historis Indonesia",
+  "subtitle": "Prediksi Curah Hujan, Klasifikasi Risiko Cuaca, Segmentasi Wilayah Iklim, dan Rekomendasi Mitigasi",
+  "dataset_source": "Open-Meteo Historical Weather API",
+  "dataset_link": "https://open-meteo.com/en/docs/historical-weather-api",
+  "dataset_license": "CC BY 4.0",
+  "supporting_source": "BMKG Data Terbuka",
+  "supporting_link": "https://data.bmkg.go.id/",
+  "created_at": "2026-05-19 03:55:22",
+  "target_deployment": "Next.js + Vercel Python Function",
+  "minimum_dataset_requirement_mb": 100,
+  "actual_dataset_size_mb": 130.73,
+  "is_dataset_minimum_100mb": true
+}

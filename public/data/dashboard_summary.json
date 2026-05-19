@@ -1,0 +1,15 @@
+{
+  "project_title": "Penerapan Big Data Analytics pada Data Cuaca Historis Indonesia",
+  "total_data_clean": 727992,
+  "jumlah_provinsi": 38,
+  "jumlah_kota": 38,
+  "tahun_awal": 2022,
+  "tahun_akhir": 2024,
+  "rata_rata_suhu": 26.387209886921838,
+  "rata_rata_curah_hujan": 0.32717200189013057,
+  "maksimum_curah_hujan": 50.0,
+  "rata_rata_kelembapan": 84.0991082319586,
+  "rata_rata_kecepatan_angin": 7.027033538830094,
+  "total_dataset_raw_mb": 130.73,
+  "is_dataset_minimum_100mb": true
+}

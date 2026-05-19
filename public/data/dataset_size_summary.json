@@ -1,0 +1,12 @@
+{
+  "total_size_mb": 130.73,
+  "minimum_required_mb": 100,
+  "target_download_mb": 130,
+  "is_minimum_100mb": true,
+  "jumlah_file": 84,
+  "dataset_source": "Open-Meteo Historical Weather API",
+  "dataset_link": "https://open-meteo.com/en/docs/historical-weather-api",
+  "supporting_source": "BMKG Data Terbuka",
+  "supporting_link": "https://data.bmkg.go.id/",
+  "catatan": "Ukuran dihitung dari seluruh file dataset mentah di folder data_raw. Dataset harus minimal 100 MB sesuai ketentuan tugas besar."
+}

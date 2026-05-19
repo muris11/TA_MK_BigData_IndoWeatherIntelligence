@@ -1,0 +1,9 @@
+.ipynb_checkpoints
+notebook/
+data_raw/
+output/grafik/
+*.ipynb
+*.zip
+__pycache__
+*.pyc
+final_export_cuaca_indonesia/

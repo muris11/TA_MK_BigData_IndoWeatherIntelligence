@@ -1,0 +1,84 @@
+tahun,provinsi,kota,file,status,rows,cols,ukuran_mb,total_raw_mb_setelah
+2024,Aceh,Banda Aceh,data_raw/cuaca_historis_open_meteo/weather_hourly_2024_01_Aceh.csv,downloaded,8784,27,1.52,1.52
+2024,Sumatera Utara,Medan,data_raw/cuaca_historis_open_meteo/weather_hourly_2024_02_Sumatera_Utara.csv,downloaded,8784,27,1.56,3.07
+2024,Sumatera Barat,Padang,data_raw/cuaca_historis_open_meteo/weather_hourly_2024_03_Sumatera_Barat.csv,downloaded,8784,27,1.57,4.64
+2024,Riau,Pekanbaru,data_raw/cuaca_historis_open_meteo/weather_hourly_2024_04_Riau.csv,downloaded,8784,27,1.51,6.16
+2024,Jambi,Jambi,data_raw/cuaca_historis_open_meteo/weather_hourly_2024_05_Jambi.csv,downloaded,8784,27,1.5,7.65
+2024,Sumatera Selatan,Palembang,data_raw/cuaca_historis_open_meteo/weather_hourly_2024_06_Sumatera_Selatan.csv,downloaded,8784,27,1.62,9.28
+2024,Bengkulu,Bengkulu,data_raw/cuaca_historis_open_meteo/weather_hourly_2024_07_Bengkulu.csv,downloaded,8784,27,1.55,10.82
+2024,Lampung,Bandar Lampung,data_raw/cuaca_historis_open_meteo/weather_hourly_2024_08_Lampung.csv,downloaded,8784,27,1.58,12.41
+2024,Kepulauan Bangka Belitung,Pangkalpinang,data_raw/cuaca_historis_open_meteo/weather_hourly_2024_09_Kepulauan_Bangka_Belitung.csv,downloaded,8784,27,1.74,14.14
+2024,Kepulauan Riau,Tanjung Pinang,data_raw/cuaca_historis_open_meteo/weather_hourly_2024_10_Kepulauan_Riau.csv,downloaded,8784,27,1.61,15.76
+2024,DKI Jakarta,Jakarta,data_raw/cuaca_historis_open_meteo/weather_hourly_2024_11_DKI_Jakarta.csv,downloaded,8784,27,1.56,17.32
+2024,Jawa Barat,Bandung,data_raw/cuaca_historis_open_meteo/weather_hourly_2024_12_Jawa_Barat.csv,downloaded,8784,27,1.54,18.86
+2024,Jawa Tengah,Semarang,data_raw/cuaca_historis_open_meteo/weather_hourly_2024_13_Jawa_Tengah.csv,downloaded,8784,27,1.57,20.43
+2024,DI Yogyakarta,Yogyakarta,data_raw/cuaca_historis_open_meteo/weather_hourly_2024_14_DI_Yogyakarta.csv,downloaded,8784,27,1.6,22.03
+2024,Jawa Timur,Surabaya,data_raw/cuaca_historis_open_meteo/weather_hourly_2024_15_Jawa_Timur.csv,downloaded,8784,27,1.57,23.6
+2024,Banten,Serang,data_raw/cuaca_historis_open_meteo/weather_hourly_2024_16_Banten.csv,downloaded,8784,27,1.49,25.09
+2024,Bali,Denpasar,data_raw/cuaca_historis_open_meteo/weather_hourly_2024_17_Bali.csv,downloaded,8784,27,1.52,26.61
+2024,Nusa Tenggara Barat,Mataram,data_raw/cuaca_historis_open_meteo/weather_hourly_2024_18_Nusa_Tenggara_Barat.csv,downloaded,8784,27,1.64,28.25
+2024,Nusa Tenggara Timur,Kupang,data_raw/cuaca_historis_open_meteo/weather_hourly_2024_19_Nusa_Tenggara_Timur.csv,downloaded,8784,27,1.62,29.87
+2024,Kalimantan Barat,Pontianak,data_raw/cuaca_historis_open_meteo/weather_hourly_2024_20_Kalimantan_Barat.csv,downloaded,8784,27,1.62,31.49
+2024,Kalimantan Tengah,Palangka Raya,data_raw/cuaca_historis_open_meteo/weather_hourly_2024_21_Kalimantan_Tengah.csv,downloaded,8784,27,1.66,33.15
+2024,Kalimantan Selatan,Banjarmasin,data_raw/cuaca_historis_open_meteo/weather_hourly_2024_22_Kalimantan_Selatan.csv,downloaded,8784,27,1.65,34.8
+2024,Kalimantan Timur,Samarinda,data_raw/cuaca_historis_open_meteo/weather_hourly_2024_23_Kalimantan_Timur.csv,downloaded,8784,27,1.62,36.43
+2024,Kalimantan Utara,Tanjung Selor,data_raw/cuaca_historis_open_meteo/weather_hourly_2024_24_Kalimantan_Utara.csv,downloaded,8784,27,1.64,38.07
+2024,Sulawesi Utara,Manado,data_raw/cuaca_historis_open_meteo/weather_hourly_2024_25_Sulawesi_Utara.csv,downloaded,8784,27,1.57,39.64
+2024,Sulawesi Tengah,Palu,data_raw/cuaca_historis_open_meteo/weather_hourly_2024_26_Sulawesi_Tengah.csv,downloaded,8784,27,1.56,41.2
+2024,Sulawesi Selatan,Makassar,data_raw/cuaca_historis_open_meteo/weather_hourly_2024_27_Sulawesi_Selatan.csv,downloaded,8784,27,1.61,42.81
+2024,Sulawesi Tenggara,Kendari,data_raw/cuaca_historis_open_meteo/weather_hourly_2024_28_Sulawesi_Tenggara.csv,downloaded,8784,27,1.6,44.41
+2024,Gorontalo,Gorontalo,data_raw/cuaca_historis_open_meteo/weather_hourly_2024_29_Gorontalo.csv,downloaded,8784,27,1.55,45.96
+2024,Sulawesi Barat,Mamuju,data_raw/cuaca_historis_open_meteo/weather_hourly_2024_30_Sulawesi_Barat.csv,downloaded,8784,27,1.58,47.54
+2024,Maluku,Ambon,data_raw/cuaca_historis_open_meteo/weather_hourly_2024_31_Maluku.csv,downloaded,8784,27,1.51,49.05
+2024,Maluku Utara,Sofifi,data_raw/cuaca_historis_open_meteo/weather_hourly_2024_32_Maluku_Utara.csv,downloaded,8784,27,1.55,50.6
+2024,Papua Barat,Manokwari,data_raw/cuaca_historis_open_meteo/weather_hourly_2024_33_Papua_Barat.csv,downloaded,8784,27,1.58,52.18
+2024,Papua,Jayapura,data_raw/cuaca_historis_open_meteo/weather_hourly_2024_34_Papua.csv,downloaded,8784,27,1.51,53.69
+2024,Papua Selatan,Merauke,data_raw/cuaca_historis_open_meteo/weather_hourly_2024_35_Papua_Selatan.csv,downloaded,8784,27,1.59,55.28
+2024,Papua Tengah,Nabire,data_raw/cuaca_historis_open_meteo/weather_hourly_2024_36_Papua_Tengah.csv,downloaded,8784,27,1.56,56.84
+2024,Papua Pegunungan,Wamena,data_raw/cuaca_historis_open_meteo/weather_hourly_2024_37_Papua_Pegunungan.csv,downloaded,8784,27,1.58,58.42
+2024,Papua Barat Daya,Sorong,data_raw/cuaca_historis_open_meteo/weather_hourly_2024_38_Papua_Barat_Daya.csv,downloaded,8784,27,1.6,60.02
+2023,Aceh,Banda Aceh,data_raw/cuaca_historis_open_meteo/weather_hourly_2023_01_Aceh.csv,downloaded,8760,27,1.51,61.53
+2023,Sumatera Utara,Medan,data_raw/cuaca_historis_open_meteo/weather_hourly_2023_02_Sumatera_Utara.csv,downloaded,8760,27,1.55,63.09
+2023,Sumatera Barat,Padang,data_raw/cuaca_historis_open_meteo/weather_hourly_2023_03_Sumatera_Barat.csv,downloaded,8760,27,1.57,64.65
+2023,Riau,Pekanbaru,data_raw/cuaca_historis_open_meteo/weather_hourly_2023_04_Riau.csv,downloaded,8760,27,1.51,66.16
+2023,Jambi,Jambi,data_raw/cuaca_historis_open_meteo/weather_hourly_2023_05_Jambi.csv,downloaded,8760,27,1.49,67.66
+2023,Sumatera Selatan,Palembang,data_raw/cuaca_historis_open_meteo/weather_hourly_2023_06_Sumatera_Selatan.csv,downloaded,8760,27,1.62,69.28
+2023,Bengkulu,Bengkulu,data_raw/cuaca_historis_open_meteo/weather_hourly_2023_07_Bengkulu.csv,downloaded,8760,27,1.54,70.82
+2023,Lampung,Bandar Lampung,data_raw/cuaca_historis_open_meteo/weather_hourly_2023_08_Lampung.csv,downloaded,8760,27,1.58,72.4
+2023,Kepulauan Bangka Belitung,Pangkalpinang,data_raw/cuaca_historis_open_meteo/weather_hourly_2023_09_Kepulauan_Bangka_Belitung.csv,downloaded,8760,27,1.73,74.14
+2023,Kepulauan Riau,Tanjung Pinang,data_raw/cuaca_historis_open_meteo/weather_hourly_2023_10_Kepulauan_Riau.csv,downloaded,8760,27,1.62,75.76
+2023,DKI Jakarta,Jakarta,data_raw/cuaca_historis_open_meteo/weather_hourly_2023_11_DKI_Jakarta.csv,downloaded,8760,27,1.56,77.32
+2023,Jawa Barat,Bandung,data_raw/cuaca_historis_open_meteo/weather_hourly_2023_12_Jawa_Barat.csv,downloaded,8760,27,1.54,78.86
+2023,Jawa Tengah,Semarang,data_raw/cuaca_historis_open_meteo/weather_hourly_2023_13_Jawa_Tengah.csv,downloaded,8760,27,1.57,80.43
+2023,DI Yogyakarta,Yogyakarta,data_raw/cuaca_historis_open_meteo/weather_hourly_2023_14_DI_Yogyakarta.csv,downloaded,8760,27,1.6,82.02
+2023,Jawa Timur,Surabaya,data_raw/cuaca_historis_open_meteo/weather_hourly_2023_15_Jawa_Timur.csv,downloaded,8760,27,1.56,83.58
+2023,Banten,Serang,data_raw/cuaca_historis_open_meteo/weather_hourly_2023_16_Banten.csv,downloaded,8760,27,1.49,85.07
+2023,Bali,Denpasar,data_raw/cuaca_historis_open_meteo/weather_hourly_2023_17_Bali.csv,downloaded,8760,27,1.51,86.59
+2023,Nusa Tenggara Barat,Mataram,data_raw/cuaca_historis_open_meteo/weather_hourly_2023_18_Nusa_Tenggara_Barat.csv,downloaded,8760,27,1.63,88.22
+2023,Nusa Tenggara Timur,Kupang,data_raw/cuaca_historis_open_meteo/weather_hourly_2023_19_Nusa_Tenggara_Timur.csv,downloaded,8760,27,1.62,89.84
+2023,Kalimantan Barat,Pontianak,data_raw/cuaca_historis_open_meteo/weather_hourly_2023_20_Kalimantan_Barat.csv,downloaded,8760,27,1.62,91.46
+2023,Kalimantan Tengah,Palangka Raya,data_raw/cuaca_historis_open_meteo/weather_hourly_2023_21_Kalimantan_Tengah.csv,downloaded,8760,27,1.66,93.12
+2023,Kalimantan Selatan,Banjarmasin,data_raw/cuaca_historis_open_meteo/weather_hourly_2023_22_Kalimantan_Selatan.csv,downloaded,8760,27,1.65,94.77
+2023,Kalimantan Timur,Samarinda,data_raw/cuaca_historis_open_meteo/weather_hourly_2023_23_Kalimantan_Timur.csv,downloaded,8760,27,1.62,96.38
+2023,Kalimantan Utara,Tanjung Selor,data_raw/cuaca_historis_open_meteo/weather_hourly_2023_24_Kalimantan_Utara.csv,downloaded,8760,27,1.64,98.02
+2023,Sulawesi Utara,Manado,data_raw/cuaca_historis_open_meteo/weather_hourly_2023_25_Sulawesi_Utara.csv,downloaded,8760,27,1.57,99.59
+2023,Sulawesi Tengah,Palu,data_raw/cuaca_historis_open_meteo/weather_hourly_2023_26_Sulawesi_Tengah.csv,downloaded,8760,27,1.56,101.15
+2023,Sulawesi Selatan,Makassar,data_raw/cuaca_historis_open_meteo/weather_hourly_2023_27_Sulawesi_Selatan.csv,downloaded,8760,27,1.61,102.75
+2023,Sulawesi Tenggara,Kendari,data_raw/cuaca_historis_open_meteo/weather_hourly_2023_28_Sulawesi_Tenggara.csv,downloaded,8760,27,1.6,104.35
+2023,Gorontalo,Gorontalo,data_raw/cuaca_historis_open_meteo/weather_hourly_2023_29_Gorontalo.csv,downloaded,8760,27,1.55,105.9
+2023,Sulawesi Barat,Mamuju,data_raw/cuaca_historis_open_meteo/weather_hourly_2023_30_Sulawesi_Barat.csv,downloaded,8760,27,1.57,107.47
+2023,Maluku,Ambon,data_raw/cuaca_historis_open_meteo/weather_hourly_2023_31_Maluku.csv,downloaded,8760,27,1.51,108.98
+2023,Maluku Utara,Sofifi,data_raw/cuaca_historis_open_meteo/weather_hourly_2023_32_Maluku_Utara.csv,downloaded,8760,27,1.55,110.53
+2023,Papua Barat,Manokwari,data_raw/cuaca_historis_open_meteo/weather_hourly_2023_33_Papua_Barat.csv,downloaded,8760,27,1.57,112.1
+2023,Papua,Jayapura,data_raw/cuaca_historis_open_meteo/weather_hourly_2023_34_Papua.csv,downloaded,8760,27,1.51,113.61
+2023,Papua Selatan,Merauke,data_raw/cuaca_historis_open_meteo/weather_hourly_2023_35_Papua_Selatan.csv,downloaded,8760,27,1.59,115.2
+2023,Papua Tengah,Nabire,data_raw/cuaca_historis_open_meteo/weather_hourly_2023_36_Papua_Tengah.csv,downloaded,8760,27,1.56,116.75
+2023,Papua Pegunungan,Wamena,data_raw/cuaca_historis_open_meteo/weather_hourly_2023_37_Papua_Pegunungan.csv,downloaded,8760,27,1.58,118.33
+2023,Papua Barat Daya,Sorong,data_raw/cuaca_historis_open_meteo/weather_hourly_2023_38_Papua_Barat_Daya.csv,downloaded,8760,27,1.6,119.93
+2022,Aceh,Banda Aceh,data_raw/cuaca_historis_open_meteo/weather_hourly_2022_01_Aceh.csv,downloaded,8760,27,1.52,121.45
+2022,Sumatera Utara,Medan,data_raw/cuaca_historis_open_meteo/weather_hourly_2022_02_Sumatera_Utara.csv,downloaded,8760,27,1.55,123.0
+2022,Sumatera Barat,Padang,data_raw/cuaca_historis_open_meteo/weather_hourly_2022_03_Sumatera_Barat.csv,downloaded,8760,27,1.57,124.56
+2022,Riau,Pekanbaru,data_raw/cuaca_historis_open_meteo/weather_hourly_2022_04_Riau.csv,downloaded,8760,27,1.51,126.07
+2022,Jambi,Jambi,data_raw/cuaca_historis_open_meteo/weather_hourly_2022_05_Jambi.csv,downloaded,8760,27,1.49,127.56
+2022,Sumatera Selatan,Palembang,data_raw/cuaca_historis_open_meteo/weather_hourly_2022_06_Sumatera_Selatan.csv,downloaded,8760,27,1.62,129.18
+2022,Bengkulu,Bengkulu,data_raw/cuaca_historis_open_meteo/weather_hourly_2022_07_Bengkulu.csv,downloaded,8760,27,1.54,130.72

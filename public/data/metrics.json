@@ -1,0 +1,42 @@
+{
+  "dataset": {
+    "total_size_mb": 130.73,
+    "minimum_required_mb": 100,
+    "target_download_mb": 130,
+    "is_minimum_100mb": true,
+    "jumlah_file": 84,
+    "dataset_source": "Open-Meteo Historical Weather API",
+    "dataset_link": "https://open-meteo.com/en/docs/historical-weather-api",
+    "supporting_source": "BMKG Data Terbuka",
+    "supporting_link": "https://data.bmkg.go.id/",
+    "catatan": "Ukuran dihitung dari seluruh file dataset mentah di folder data_raw. Dataset harus minimal 100 MB sesuai ketentuan tugas besar."
+  },
+  "regression": {
+    "best_model": "RandomForestRegressor",
+    "target": "precipitation",
+    "mae": 0.2700842140634485,
+    "mse": 0.5793509291241747,
+    "rmse": 0.7611510553918813,
+    "r2_score": 0.5257340189480311
+  },
+  "classification": {
+    "best_model": "RandomForestClassifier",
+    "target": "risk_category",
+    "accuracy": 0.94046,
+    "precision": 0.9312920615527047,
+    "recall": 0.94046,
+    "f1_score": 0.9295475863422875
+  },
+  "clustering": {
+    "model": "KMeans",
+    "n_clusters": 4,
+    "silhouette_score": 0.32606076768826836
+  },
+  "deep_learning": {
+    "model": "MLPRegressor",
+    "mae": 0.29830062865268986,
+    "mse": 0.6324957365792522,
+    "rmse": 0.7952960056351673,
+    "r2_score": 0.4822288255005929
+  }
+}
