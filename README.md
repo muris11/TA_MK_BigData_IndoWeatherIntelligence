@@ -337,6 +337,17 @@ Buka:
 http://localhost:3000
 ```
 
+Saat menjalankan Next.js saja, endpoint `/api/predict-rainfall`, `/api/predict-risk`, dan endpoint API lain tetap tersedia melalui route handler Next.js. Ini mencegah error `404` saat development lokal.
+
+Jika ingin UI Next.js memakai model Python asli dari `model_bundle.pkl`, jalankan FastAPI di port `8000`, lalu set environment variable sebelum menjalankan Next.js:
+
+```powershell
+$env:PYTHON_API_URL="http://127.0.0.1:8000"
+npm run dev
+```
+
+Tanpa `PYTHON_API_URL`, API lokal memakai fallback rule-based agar form demo tetap berjalan dan tidak 404.
+
 Build production:
 
 ```powershell
